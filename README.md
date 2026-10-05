@@ -1,4 +1,4 @@
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1A1A1A&height=220&section=header&text=Aman%20Maurya&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Solutions%20Architect&descAlignY=58&descSize=18)
 # Hi there, I'm Aman Maurya 👋  
 Known as DEVELOPERAMAN
 
